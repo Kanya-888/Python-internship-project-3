@@ -26,7 +26,7 @@ Python 3.10 or newer. No additional packages are required.
 1. Open a terminal in the project folder.
 2. Run:
 
-   python expense_tracker.py
+   python project3.py
 
 3. Choose an option from the menu.
 
